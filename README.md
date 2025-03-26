@@ -1,6 +1,5 @@
 U-Net for Image Segmentation
 
-==================================================
 Overview:
 --------------------------------------------------
 This project contains a comprehensive implementation of U-Net for image segmentation, designed for binary segmentation tasks. It leverages TensorFlow and Keras to build, train, and evaluate the U-Net model on your dataset.
@@ -93,5 +92,4 @@ c. Lung Nodule Analysis Dataset (LUNA16):
 - TensorFlow Keras Documentation. (https://www.tensorflow.org/api_docs/python/tf/keras)
 - Keras ImageDataGenerator. (https://keras.io/api/preprocessing/image/)
 
-==================================================
 
